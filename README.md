@@ -1,1 +1,1 @@
-# coreplatform_frontend
+# coreplatform_backend
